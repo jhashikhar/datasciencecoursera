@@ -11,6 +11,3 @@ The explanations listed below are for the final project of Getting and Cleaning 
 7. Use the combination of melt and dcast functions to calculate the values.
 8. Export the calculated values as text file name 'tidy.txt'
 
-Sorry for the bad English grammar and vocabulary.
-
-I appreciate that if you can correct any mistakes I made, including writing and programming.
